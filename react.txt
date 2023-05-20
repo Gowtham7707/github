@@ -1,0 +1,43 @@
+https://cdnjs.com/libraries/semantic-ui
+
+-------boostrap 5cdn-----------<><>
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+https://getbootstrap.com/docs/4.0/components/forms/
+
+
+----------------food url-------<><>
+https://food-itema-default-rtdb.firebaseio.com/telugu-skillhub-api/-MsE8GfWtRjc8x_t8pCC.json
+
+----------------Fake Api----------------<><>>
+https://fakestoreapi.com/docs
+
+-------------Movie app------------------<><><
+https://www.omdbapi.com/?s=games%20of%20thrones&apikey=263d22d8
+
+
+---------------git hub------------<><>
+https://www.datacamp.com/tutorial/git-push-pull
+https://github.com/9885935652/movie-app.git
+
+-----------------Icons-------------------------<><>
+https://fontawesome.com/v4/icons/
+
+------------------index.js---------------------<><>>
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../node_modules/font-awesome/css/font-awesome.min.css';
+
+------------------Music App- url---------------------<><><>
+ 'https://telugu-skillhub-own-music-api-default-rtdb.firebaseio.com/music-api/-MdCU2vPsoSsulYD2akz.json'
+
+
+---------------------------Covid-19------------------<><>>
+https://data.covid19india.org/data.json
+
+----------------------pagination-----------------------<><><
+https://jsonplaceholder.typicode.com/posts
+
+
+---------------------------------pixabay-------gallary-app--------------<><>
+https://pixabay.com/api/?key=30312387-5363a5ad3ad99f55ae7006c4d&q=yellow+flowers&image_type=photo
+https://pixabay.com/api/videos/?key=30312387-5363a5ad3ad99f55ae7006c4d&q=yellow+flowers
